@@ -1,0 +1,28 @@
+AIMD hospital is a medical facility which has just hired an intern in Machine Learning space due to the vast advancements of ML in the medical field. This facility has given the intern the data of 769 patients which have cancer and who have don’t have cancer. These patients have other conditions as well like past pregnancies, diabetes, insulin intake etc. The doctors are hoping these attributes will help the intern learn & build a model to predict whether a patient is likely to have cancer or not based on certain attributes.
+
+Assuming that you are the intern, you have to build a classification (KNN) model which will predict whether a patient is susceptible to cancer or not. [9 marks]
+
+ 
+
+The marks distribution is as follows:
+
+Exploratory Data Analysis on dataset – [2 marks]
+Finding mean, max & min across each attribute [0.25 mark]
+Finding NA values across data & filling them up with mean/median [0.25 mark]
+Scatter plots and pair plots of attributes showcasing their relationship [0.25 mark]
+Heatmap showing correlations among attributes [0.25 mark]
+Scaling the data for correct model building – [1 mark]
+ 
+
+Building the KNN classifier by finding best value of K [4 marks]
+Building the model [1 mark]
+Plotting elbow curve [1 mark]
+Finding best value of K [2 mark]
+ 
+
+Model performance Analysis [3 marks]
+Printing confusing matrix [2 mark – Out of this 1 mark for mentioning the values of True Positives, True Negatives, False Positives & False Negatives]
+Finding F1 score of the model [1 mark]
+Dataset - Cancer_Dataset.csvPreview the document
+
+You can contact me at kedar.kanhere@wilp.bits-pilani.ac.in in case of any doubts
